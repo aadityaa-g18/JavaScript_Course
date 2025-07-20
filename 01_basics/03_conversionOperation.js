@@ -8,7 +8,7 @@ console.log(typeof valueInNumber);
 console.log(valueInNumber);
 
 // "33" => 33
-// "33abc" => NaN
+// "33abc" => NaN (Not a Number)
 // true => 1; false => 0
 // Null => 0
 // aditya => NaN
