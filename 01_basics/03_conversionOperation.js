@@ -12,6 +12,7 @@ console.log(valueInNumber);
 // true => 1; false => 0
 // Null => 0
 // aditya => NaN
+//undefined => NaN
 
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
